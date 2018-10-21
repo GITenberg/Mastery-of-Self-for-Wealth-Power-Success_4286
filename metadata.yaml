@@ -1,5 +1,5 @@
 _repo: Mastery-of-Self-for-Wealth-Power-Success_4286
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'New Thought'
 - !lcc 'BF'
+- GITenberg
 title: Mastery of Self for Wealth, Power, Success
 url: http://www.gutenberg.org/ebooks/4286
